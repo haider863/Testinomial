@@ -1,3 +1,3 @@
-function hello(){
- this is third   branch
+function hello() {
+  return "is third branch";
 }
