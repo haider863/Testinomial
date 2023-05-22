@@ -1,3 +1,3 @@
 function cherryTest() {
-  return "Hello this is main branch having cherry function";
+  return "Hello world in function";
 }
