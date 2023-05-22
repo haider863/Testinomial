@@ -1,3 +1,3 @@
 function cherryTest() {
-  return "Hello";
+  return "Hello world in function";
 }
