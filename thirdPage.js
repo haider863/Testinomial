@@ -1,3 +1,5 @@
-function hello(){
-    
+function hello() {}
+
+function SecondFunction() {
+  return "hello";
 }
